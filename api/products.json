@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "book",
+            "description": "it was an amazing story",
+            "price": 10
+        },
+        {
+            "id": 2,
+            "name": "spoon",
+            "description": "it's very useful for desserts",
+            "price": 3
+        }
+    ]
+}
